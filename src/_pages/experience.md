@@ -10,22 +10,23 @@ social: false
 ---
 
 
-## LIVAD Technologies, **Full-Time AI Engineer, Backend Developer, R&D Crew Lead** 
+## LIVAD Technologies, **Full-Time AI Engineer, Software Developer, R&D Crew Lead** 
 ######  <span style="font-size:small;"> *Ongoing - September 2021  | Istanbul/Turkey (Hybrit)* </span>
 
 
 
-**Creating project structures, designs, plans & development. Building AI and Automated systems for
-company by mainly computer vision, AR, neural language processing and deep learning
-developing areas, using most effective ways and state of art methods. Working with Cloud based
-systems and integration projects.**
-- LIVAD Studio App Lead. That app also includes; local detection system, sync(upload), live update, links with Windows API's. 
+**Creating project structures, designs, plans & development. Building AI and Automated systems for the company by mainly computer vision,extracting, synthesizing and mathematical analyzing large volumes of data, AR, neural language processing and deep learning developing areas, using the most effective ways and state of art methods. Working with Cloud-based systems and integration.**
+- LIVAD Studio App Lead. That app also includes; local detection system, live update, links with Windows API's. 
+- Utilizing data mining, machine learning, algorithmic and statistical tools for large volumes of data
+- A Kubernetes microservice for object-specific animation recognition in videos via computer vision ways.
+- Creating web servers and connecting each other, working with REST API's, Docker and back-end side.
 - Custom deep learning models for detecting specific in-game moments. *(IAB 2023 In-Game Gold Award, Brandverse 2023 Silver Award)*
-- Kubernetes microservices that includes computer vision and machine learning systems
+- Kubernetes microservice that includes lightweight speech recognition for given video input.
 - Unreal Engine 5 realtime meta human lip-sync & backend communication system
 - Open Broadcast Studio(OBS) Snap AR WebSDK Kit development (livestream AR integration).
-- Creating complex system that includes multi-process algorithms, they connecting each other simultaneously.
+- Creating a complex system that includes multi-process algorithms, theyconnect each other simultaneously in local & cloud.
 - Real-Time Offline Speech Recognition (NLP) & Toxic Word Classifying System.
+- Background Sync App start-to-end development, added functionality and created desktop UI with Qt5
 
 --- 
 
@@ -44,6 +45,7 @@ methods and optimizations for SRCNN methodology.**
 - Satellite Mapping on World Map
 - RINEX Data Converting, Parsing and Reading. Created special library for BeiDou RINEX data.
 - Satellite labelling and matching with correct one.
+- Found a new relationship between BeiDou RINEX Data and BeiDou Satellites movements
 
 --- 
 
