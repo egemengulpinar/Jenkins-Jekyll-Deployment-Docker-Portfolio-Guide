@@ -15,8 +15,9 @@ social: false
 
 
 
-**Creating project structures, designs, plans & development. Building AI and Automated systems for the company by mainly computer vision,extracting, synthesizing and mathematical analyzing large volumes of data, AR, neural language processing and deep learning developing areas, using the most effective ways and state of art methods. Working with Cloud-based systems and integration.**
+**Creating project structures, designs, plans & development. Building AI and automated systems for the company by mainly Python development & API connections (backend), besides that also computer vision, extracting, synthesizing and mathematical analyzing large volumes of data, AR, deep learning developing areas, using the most effective ways and state of art methods.**
 - LIVAD Studio App Lead. That app also includes; local detection system, live update, links with Windows API's. 
+- Creating web servers & frameworks and connecting each other, working with REST API’s, Docker and backend side
 - Utilizing data mining, machine learning, algorithmic and statistical tools for large volumes of data
 - A Kubernetes microservice for object-specific animation recognition in videos via computer vision ways.
 - Creating web servers and connecting each other, working with REST API's, Docker and back-end side.
