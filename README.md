@@ -1,4 +1,4 @@
-# Jenkins-Jekyll-Deployment-Docker-Portfolio-Guide
+# Jenkins-Jekyll-Docker-Portfolio-Guide
 
 
 This repo contains the start-to-end development process and answers how to create basic **portfolio deployment, server settings, CI/CD configurations, remote connections, dockerize project, SSL certifications and domains settings**, 
