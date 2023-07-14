@@ -25,7 +25,7 @@ I really understand the basics of web development processes when I started to cr
 
 
 ## Create Portfolio
-You can use what ever want for create your own portfolio. But I can give a simple way. I decided to use **Jekyll** because Jekyll is a simple, blog-aware, static site generator for creating a personal website, portfolio or blog. Based on Jekyll I would like to share [Al Folio]('https://github.com/alshedivat/al-folio') that uses for simple academics page but I customized it for what I decided to use.
+You can use what ever want for create your own portfolio. But I can give a simple way. I decided to use **Jekyll** because Jekyll is a simple, blog-aware, static site generator for creating a personal website, portfolio or blog. Based on Jekyll I would like to share [Al Folio](https://github.com/alshedivat/al-folio) that uses for simple academics page but I customized it for what I decided to use.
 You can use either the same customized template, just edit **src** folder and read the instructions of al-folio.
 
 
