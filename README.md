@@ -1,9 +1,9 @@
-# egemengulpinar.com Portfolio
+# Jenkins-Jekyll-Deployment-Docker-Portfolio-Guide
 
 
 This repo contains the start-to-end development process and answers how to create basic **portfolio deployment, server settings, CI/CD configurations, remote connections, dockerize project, SSL certifications and domains settings**, 
 
-I really understand the basics of web development processes when I started to create this documentation and take some notes. I believe some of you will get it easily from this documentation. Repo shows every answer step by step and also I added language support for understanding easily for kind of other developers. 
+I really understand the basics of web development processes when I started to create this documentation and took some notes. I believe some of you will get it easily from this documentation. Repo shows every answer step by step and also I added language support for understanding easily for kind of other developers. 
 
 
 ## Table of Contents
