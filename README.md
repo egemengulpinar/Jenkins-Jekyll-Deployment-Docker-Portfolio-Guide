@@ -238,9 +238,9 @@ You can see the results on the left bottom corner.
 That's it, well done!
 
 ## References
-[Jenkins Installation on Linux](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
-[How to Use Jenkins Docker Image](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
-[Jenkins Official Image](https://hub.docker.com/_/nginx)
-[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+- [Jenkins Installation on Linux](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
+- [How to Use Jenkins Docker Image](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
+- [Jenkins Official Image](https://hub.docker.com/_/nginx)
+- [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
 
