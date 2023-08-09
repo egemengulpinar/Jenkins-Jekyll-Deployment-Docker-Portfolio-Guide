@@ -231,13 +231,16 @@ docker run -it -d -p 80:80 --name ${container_name}  imagename:1.0.0
 
 ```
 For the rest of the part, just click save & apply. You can test it via `Configure Now` button on the left side.
+You can see the results on the left bottom corner.
+
+<img width="332" alt="image" src="https://github.com/egemengulpinar/Jenkins-Jekyll-Docker-Portfolio-Guide/assets/71253469/a95f8eb1-3dcb-4cca-9083-c687b1cff06f">
 
 That's it, well done!
 
 ## References
-[Jenkins Installation on Linux]('https://www.jenkins.io/doc/book/installing/linux/#debianubuntu')
-[How to Use Jenkins Docker Image]('https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/')
-[Jenkins Official Image]('https://hub.docker.com/_/nginx')
-[Install Docker Engine on Ubuntu]('https://docs.docker.com/engine/install/ubuntu/')
+- [Jenkins Installation on Linux](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
+- [How to Use Jenkins Docker Image](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
+- [Jenkins Official Image](https://hub.docker.com/_/nginx)
+- [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 
 
