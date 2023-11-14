@@ -12,7 +12,7 @@ social: false
 
 ## Bradford University Department of Computer Science
 ##### **GPA: 4.00 | Bradford/UNITED KINGDOM** 
-######  <span style="font-size:small;"> *Erasmus Exchange Student | 30ECTS | 2022 February - 2021 September* </span>
+######  <span style="font-size:small;"> *Erasmus Exchange Student | 30 ECTS | 2022 February - 2021 September* </span>
 
 
 **Activities and societies:** University of Bradford Union of Students
