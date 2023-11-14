@@ -12,7 +12,7 @@ social: false
 
 ## Bradford University Department of Computer Science
 ##### **GPA: 4.00 | Bradford/UNITED KINGDOM** 
-######  <span style="font-size:small;"> *Erasmus Exchange Student | 2022 February - 2021 September* </span>
+######  <span style="font-size:small;"> *Erasmus Exchange Student | 30ECTS | 2022 February - 2021 September* </span>
 
 
 **Activities and societies:** University of Bradford Union of Students
@@ -25,8 +25,8 @@ social: false
 --- 
 
 ## Mersin University Computer Engineering, 
-##### **GPA: 3,40, 363 ECTS | Mersin/TURKEY** 
-######  <span style="font-size:small;"> *English | 2021 May - 2017 September* </span>
+##### **GPA: 3,40 | Mersin/TURKEY** 
+######  <span style="font-size:small;"> *English | 263 ECTS | 2021 May - 2017 September* </span>
 
 
 **Activities and societies:**  Cyber Security Community, IEEE Community, GDC Mersin, DSC Mersin
