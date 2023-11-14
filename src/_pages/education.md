@@ -25,7 +25,7 @@ social: false
 --- 
 
 ## Mersin University Computer Engineering, 
-##### **GPA: 3,40, ex. +23 ECTS | Mersin/TURKEY** 
+##### **GPA: 3,40, 363 ECTS | Mersin/TURKEY** 
 ######  <span style="font-size:small;"> *English | 2021 May - 2017 September* </span>
 
 

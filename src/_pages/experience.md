@@ -16,18 +16,18 @@ social: false
 
 
 **Creating project structures, designs, plans & development. Building AI and automated systems for the company by mainly Python development, REST APIs, web development, besides that also computer vision, extracting, synthesizing and mathematical analyzing large volumes of data, AR, deep learning developing areas, using the most effective ways and state of art methods.**
-- LIVAD Studio App Lead. That app also includes; local detection system, live update, links with Windows API's. 
-- Creating web servers & frameworks and connecting each other, working with REST API’s, Docker and backend side
-- Utilizing data mining, machine learning, algorithmic and statistical tools for large volumes of data
-- A Kubernetes microservice for object-specific animation recognition in videos via computer vision ways.
-- Creating web servers and connecting each other, working with REST API's, Docker and back-end side.
+- Lead Research & AI Based projects. Creating project structures, design, plans & development.
+- LIVAD Studio Windows application Lead (studio.livad.stream)
+- Agile development
+- Experience in utilizing advanced GPT and other large language models (LLMs).
+- Experience Kubernetes microservice that includes lightweight speech recognition for given video input and recognition specific object(s) animation in video through computer vision ways.
 - Custom deep learning models for detecting specific in-game moments. *(IAB 2023 In-Game Gold Award, Brandverse 2023 Silver Award)*
-- Kubernetes microservice that includes lightweight speech recognition for given video input.
-- Unreal Engine 5 realtime meta human lip-sync & backend communication system
-- Open Broadcast Studio(OBS) Snap AR WebSDK Kit development (livestream AR integration).
-- Creating a complex system that includes multi-process algorithms, theyconnect each other simultaneously in local & cloud.
-- Real-Time Offline Speech Recognition (NLP) & Toxic Word Classifying System.
+- Utilizing data mining, machine learning, algorithmic and statistical tools for large volumes of data
+- Custom deep learning models & systems for detecting specific in-game moments.
+- Open Broadcast Studio(OBS) Snap AR WebSDK Kit development (livestream AR integration, WebRTC).
 - Background Sync App start-to-end development, added functionality and created desktop UI with Qt5
+- Unreal Engine 5 realtime meta human lip-sync & backend communication system
+- Real-Time Offline Speech Recognition (NLP) & Toxic Word Classifying System.
 
 --- 
 
