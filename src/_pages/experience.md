@@ -32,6 +32,7 @@ social: false
 ##### **AWARDS**
 **IAB MIXX Awards '23 :** In-Game Ads Gold Award Turkey |  Europe Finalist (LIVAD Studio In Game Detection System)  
 **Brandverse Awards '23 :**  Silver Award (LIVAD Studio In Game Detection System) 
+
 --- 
 
 ## The Scientific and Technological Research Council of Turkey (TUBITAK) Space Technologies Institute, **Artificial Intelligence Intern** 
