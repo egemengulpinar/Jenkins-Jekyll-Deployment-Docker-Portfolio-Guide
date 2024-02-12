@@ -15,7 +15,7 @@ social: false
 
 
 
-**CCreating project structures, designs, plans & development. Building automated and backend systems for the company by mainly Python development, REST APIs, web development, besides that also computer vision, extracting, synthesizing and mathematical analyzing large volumes of data, AR, deep learning developing areas, using the most effective ways and state of art methods.**
+**Creating project structures, designs, plans & development. Building automated and backend systems for the company by mainly Python development, REST APIs, web development, besides that also computer vision, extracting, synthesizing and mathematical analyzing large volumes of data, AR, deep learning developing areas, using the most effective ways and state of art methods.**
 - Lead Research & AI Based projects. Creating project structures, design, plans & development. 
 - LIVAD Studio Windows application Lead (studio.livad.stream) 
 - Experience in writing unit tests, integration tests and creating project documentations. 
