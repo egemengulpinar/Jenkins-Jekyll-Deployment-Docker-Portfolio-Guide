@@ -84,7 +84,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 95%;
 }
 
 .profile img {
@@ -109,12 +109,12 @@ hr {
 }
 
 sup {
-  font-family: "Vollkorn", Georgia, serif;
+  font-family: "Roboto", sans-serif;
 }
 
 sup1 {
   font-size: 20px;
-  font-family: "Vollkorn", Georgia, serif;
+  font-family: "Roboto", sans-serif;
 }
 
 table td, table th {

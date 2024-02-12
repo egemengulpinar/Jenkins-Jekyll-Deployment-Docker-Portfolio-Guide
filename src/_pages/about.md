@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>AI Engineer | Software Developer | Indie Hacker</strong>
+subtitle: <strong>Software Developer | R&D Engineer | Indie Hacker</strong>
 
 profile:
   align: right
@@ -24,6 +24,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](h  ttps://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am an AI Engineer, Software Developer, and R&D Crew Lead with hands-on experience in designing, managing, and maintaining projects. I have led multiple **AI projects**, built real-time detection systems and complex systems with multiple processes, and set up **AI/ML workflows**.
+I'm a **Software Developer** and **R&D Crew Lead** with a solid background in project design and management. My experience includes
+leading **AI projects**, **backend systems**, creating features that can run in real-time, and handling **complex tasks** with ease. 
+I've also set up AI/ML operations, built automation systems, and developed apps for desktop,cloud, and web. 
 
- In addition, I've built **automation systems** and **backend services**, have experience in creating **desktop**, **cloud**, and **web apps**. In all my work, I'm always looking for ways to include the latest advancements in the development area. Beyond my technical roles,  I gained experience in various fields of **Python Development**. I am a highly driven individual passionate about learning and I like to combine what I've learnt with the ideas I've in my mind.  My motto is always **"be different"**.
+Through my work, I've learned enough to bring my individual products to life. I'm always looking
+to use the **latest tech** to improve my work. In every project, I try to bring something new to the table, combining
+my technical skills with fresh ideas. I like to think outside the box and make things that stand out. **"Be different"** is
+my way of doing things.
