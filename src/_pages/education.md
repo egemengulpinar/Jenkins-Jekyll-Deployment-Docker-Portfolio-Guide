@@ -15,11 +15,9 @@ social: false
 ######  <span style="font-size:small;"> *Erasmus Exchange Student | 30 ECTS | 2022 February - 2021 September* </span>
 
 
-**Activities and societies:** University of Bradford Union of Students
-
-**Department Courses:** Software Development, Mobile Application Development and Cyber Security
-
-**Additional Courses:** Academic English Support Course
+###### **Activities and societies:** University of Bradford Union of Students
+###### **Department Courses:** Software Development, Mobile Application Development and Cyber Security
+###### **Additional Courses:** Academic English Support Course
 
 
 --- 
